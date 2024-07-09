@@ -1,2 +1,2 @@
 # CyberNest
-A website for the CyberNest f Ethos International College
+A website for the CyberNest of Ethos International College
